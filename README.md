@@ -15,6 +15,6 @@ I’m always learning and looking for opportunities to build real-world systems,
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img width="52%" src="https://github-readme-stats.shion.dev/api?username=kerolesnabiel&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /> &nbsp;&nbsp;&nbsp;
-  <img width="41%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kerolesnabiel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="52%" src="https://github-readme-stats.shion.dev/api?username=kerolos-n&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /> &nbsp;&nbsp;&nbsp;
+  <img width="41%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kerolos-n&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
